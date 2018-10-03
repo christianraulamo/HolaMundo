@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hola Mundo</string>
+    <string name="Botton">Púlsame</string>
+    <string name="texto_pulsado">Me has pulsado</string>
 </resources>
